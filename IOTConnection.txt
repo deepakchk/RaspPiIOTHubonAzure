@@ -1,0 +1,3 @@
+python app.py "HostName=RaspIOTProject.azure-devices.net;DeviceId=RaspIOT;SharedAccessKey=Bg6tkgfYW5qv6dvE0v0L/r5DCPcJQDn1pnAcDpP8L1g="
+
+python app1.py "HostName=RaspIOTProject.azure-devices.net;DeviceId=RaspIOT;SharedAccessKey=Bg6tkgfYW5qv6dvE0v0L/r5DCPcJQDn1pnAcDpP8L1g="
